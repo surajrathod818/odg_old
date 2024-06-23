@@ -2,9 +2,9 @@
 Configuration for docs
 """
 
-# source_link = "https://github.com/[org_name]/rise_pos"
+# source_link = "https://github.com/[org_name]/rise_pos_old"
 # headline = "App that does everything"
 # sub_heading = "Yes, you got that right the first time, everything"
 
 def get_context(context):
-	context.brand_html = "Rise Pos"
+	context.brand_html = "Rise Pos Old"

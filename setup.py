@@ -7,9 +7,9 @@ with open("requirements.txt") as f:
 from rise_pos import __version__ as version
 
 setup(
-	name="rise_pos",
+	name="rise_pos_old",
 	version=version,
-	description="Test APP",
+	description="Test APP 2",
 	author="Suraj Rathod",
 	author_email="surajrathod818@gmail.com",
 	packages=find_packages(),

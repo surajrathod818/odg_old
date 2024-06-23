@@ -4,15 +4,15 @@ include *.json
 include *.md
 include *.py
 include *.txt
-recursive-include rise_pos *.css
-recursive-include rise_pos *.csv
-recursive-include rise_pos *.html
-recursive-include rise_pos *.ico
-recursive-include rise_pos *.js
-recursive-include rise_pos *.json
-recursive-include rise_pos *.md
-recursive-include rise_pos *.png
-recursive-include rise_pos *.py
-recursive-include rise_pos *.svg
-recursive-include rise_pos *.txt
-recursive-exclude rise_pos *.pyc
+recursive-include rise_pos_old *.css
+recursive-include rise_pos_old *.csv
+recursive-include rise_pos_old *.html
+recursive-include rise_pos_old *.ico
+recursive-include rise_pos_old *.js
+recursive-include rise_pos_old *.json
+recursive-include rise_pos_old *.md
+recursive-include rise_pos_old *.png
+recursive-include rise_pos_old *.py
+recursive-include rise_pos_old *.svg
+recursive-include rise_pos_old *.txt
+recursive-exclude rise_pos_old *.pyc

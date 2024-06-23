@@ -1,7 +1,7 @@
 from . import __version__ as app_version
 
-app_name = "rise_pos"
-app_title = "Rise Pos"
+app_name = "rise_pos_old"
+app_title = "Riserise_pos_old"
 app_publisher = "Suraj Rathod"
 app_description = "Test APP"
 app_email = "surajrathod818@gmail.com"
